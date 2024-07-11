@@ -14,7 +14,7 @@ In this project, we'll predict the local weather of Oakland International Airpor
 You can find the code for this project here.
 
 File overview:
-- `Weather Prediction System.ipynb` - a jupyter notebook that contains all of the code.
+- `Weather_Prediction_System.ipynb` - a jupyter notebook that contains all of the code.
 
 
 
